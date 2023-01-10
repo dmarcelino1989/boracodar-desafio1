@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --bg: #0f0d13;
+  --text-white-1: #fff;
+  --text-white-2: #c4c4cc;
+  --color-purple: #2a2141;
+}
+
+body * {
+  font-family: "Roboto", sans-serif;
+  color: var(--text-white-1);
+}
